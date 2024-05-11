@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
-* [Open Science for Life in Space](open-science-for-life-in-space.md)
+* [Open Science for Life in Space](README.md)
 * [NASA OSDR: News - 2023 AWG Symposium is Here!](nasa-osdr-news-2023-awg-symposium-is-here.md)
 * [NASA OSDR: News - 2023 AWG Symposium is Here!](nasa-osdr-news-2023-awg-symposium-is-here-1.md)
 * [NASA OSDR: About ALSDA](nasa-osdr-about-alsda.md)
